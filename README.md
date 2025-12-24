@@ -1,6 +1,6 @@
 <samp>
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=NannyVina&show_icons=true&theme=transparent&hide_border=true&title_color=FFB7C5&text_color=EBD9FF&icon_color=FFB7C5&hide=stars&count_private=true" />
+  <img align="right" src="https://readme-stats-fast.vercel.app/api?username=NannyVina&show_icons=true&theme=transparent&hide_border=true&title_color=FFB7C5&text_color=EBD9FF&icon_color=FFB7C5&hide=stars&count_private=true" />
   
   <h3 style="color: #EBD9FF;">:: <span style="color: #FFB7C5;">blah</span> blah blah</h3>
   a <b>1st year cs student</b> trying to survive uni without blowing anything up (yet). 
