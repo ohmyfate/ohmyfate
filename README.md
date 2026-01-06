@@ -6,7 +6,7 @@
   a 1st year cs student trying to survive uni. 
   currently hyperfixated on arcane.
   <br><br>
-  i mostly work on backends (frontend sometimes). I speclize in writing highly optimized web spiders & scrapers for harvesting massive data, reverse engineering, pentesting.
+  i work on backends (frontend sometimes). I speclize in building highly optimized web spiders & scrapers for harvesting massive data alongside reverse engineering, pentesting, automation.
   
   <h3 style="color: #EBD9FF;">:: some <span style="color: #FFB7C5;">stuffs</span> ik</h3>
   <img src="https://img.shields.io/badge/Go-FFB7C5?style=for-the-badge&logo=go&logoColor=white" height="21" />
