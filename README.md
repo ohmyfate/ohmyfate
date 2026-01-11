@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/.NET-FFF4E1?style=for-the-badge&logo=.net&logoColor=5A5A5A" height="21" />
   <img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white" height="21" />
   <img src="https://img.shields.io/badge/Lua-EBD9FF?style=for-the-badge&logo=lua&logoColor=5A5A5A" height="21" />
-  <img src="https://img.shields.io/badge/JavaScript-FFF4E1?style=for-the-badge&logo=javascript&logoColor=5A5A5A" height="21" />
   <img src="https://img.shields.io/badge/Dart-FFB7C5?style=for-the-badge&logo=dart&logoColor=white" height="21" />
   <img src="https://img.shields.io/badge/Vue.js-FFF4E1?style=for-the-badge&logo=vue.js&logoColor=5A5A5A" height="21" />
   <img src="https://img.shields.io/badge/WebAssembly-FFB7C5?style=for-the-badge&logo=webassembly&logoColor=white" height="21" />
