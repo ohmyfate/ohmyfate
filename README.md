@@ -3,8 +3,7 @@
   <img align="right" src="https://readme-stats-fast.vercel.app/api?username=ohmyfate&show_icons=true&theme=transparent&hide_border=true&title_color=FFB7C5&text_color=EBD9FF&icon_color=FFB7C5&hide=stars&count_private=true" />
   
   <h3 style="color: #EBD9FF;">:: <span style="color: #FFB7C5;">blah</span> blah blah</h3>
-  a 1st year cs student trying to survive uni. 
-  currently hyperfixated on arcane.
+  a 1st year sleep deprived cs student. currently hyperfixated on arcane.
   <br><br>
   i work on backends & speclize in building highly optimized web spiders & scrapers for harvesting data.
   <br>
