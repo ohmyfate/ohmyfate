@@ -1,5 +1,4 @@
 <samp>
-<div>
   <img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=ohmyfate&show_icons=true&theme=transparent&hide_border=true&title_color=FFB7C5&text_color=EBD9FF&icon_color=FFB7C5&hide=stars&count_private=true" />
   
   <h3>::intro</h3>
@@ -20,6 +19,4 @@
   <img src="https://img.shields.io/badge/PyTorch-FFB7C5?style=for-the-badge&logo=pytorch&logoColor=white" height="23" />
   <img src="https://img.shields.io/badge/OpenCV-EBD9FF?style=for-the-badge&logo=opencv&logoColor=5A5A5A" height="23" />
   <img src="https://img.shields.io/badge/LLVM-FFB7C5?style=for-the-badge&logo=llvm&logoColor=white" height="23" />
-
-</div>
 </samp>
