@@ -4,8 +4,6 @@
   
   <h3>::intro</h3>
   a 1st year sleep deprived cs student. currently hyperfixated on arcane.
-  <br><br>
-  i work on backends & speclize in building highly optimized web spiders & scrapers for harvesting data.
   <br>
 
   <h3>::techstacks</h3>
