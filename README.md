@@ -14,7 +14,6 @@ I focus mostly on backend and desktop apps. Although my specialty is in building
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="25" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt3-00DC82?style=flat-square&logo=nuxt&logoColor=white" height="25" alt="Nuxt" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="25" alt="Blazor" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="25" alt="ASP.NET" />
   <!-- Low Level -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="25" alt="OpenCV" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25" alt="PyTorch" />
