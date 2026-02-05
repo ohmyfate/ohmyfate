@@ -2,7 +2,7 @@
 
 I focus mostly on backend and desktop apps. Although my specialty is in building highly optimized web crawlers and scrapers. <br>Outside of standard backend/frontend, I enjoy game modding and pentesting.
 
-**Tech Stack**
+**Experienced in —**
 
 <p align="left">
   <!-- Languages -->
