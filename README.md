@@ -10,7 +10,6 @@ I have a love for backend and desktop apps. Although my specialty is in building
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="22" alt="C#" />
   <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white" height="22" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="22" alt="JavaScript" />
   <!-- UI -->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="22" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="22" alt="Blazor" />
