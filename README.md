@@ -15,7 +15,6 @@ I have a love for backend and desktop apps. Although my specialty is in building
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" height="22" alt="Blazor" />
   <!-- Low Level -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LLVM-181717?style=flat-square&logo=llvm&logoColor=white" height="22" alt="LLVM" />
   
   <!-- UI -->
   <img src="https://img.shields.io/badge/Avalonia-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="22" alt="Avalonia" />
