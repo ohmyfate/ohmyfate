@@ -3,6 +3,8 @@
 
 Most of my time goes into **Go**, **.NET**, reverse engineering, and experimenting with **ONNX Runtimes** & machine learning.
 
+<br>
+
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=00ADD8" height="22" alt="Go" />
