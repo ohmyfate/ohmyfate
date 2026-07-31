@@ -8,7 +8,7 @@ Most of my time goes into **Go**, **.NET**, reverse engineering, and experimenti
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=00ADD8" height="22" alt="Go" />
-  <img src="https://img.shields.io/badge/C%23-161b22?style=flat-square&logo=c-sharp&logoColor=239120" height="22" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-161b22?style=flat-square&logo=dotnet&logoColor=239120" height="22" alt="C#" />
   <img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=Cplusplus&logoColor=violet" height="22" alt="Elixir" />
   <img src="https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=white" height="22" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" height="22" alt="Python" />
